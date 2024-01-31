@@ -1,4 +1,4 @@
-
+🌟 **New!** [ABLkit](https://github.com/AbductiveLearning/ABLkit) released: A toolkit for Abductive Learning with high flexibility, user-friendly interface, and optimized performance. Welcome to try it out!🚀
 
 # Deciphering Raw Data in Neuro-Symbolic Learning with Provable Guarantees
 
